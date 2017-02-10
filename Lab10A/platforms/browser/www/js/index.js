@@ -66,7 +66,7 @@ var app = {
 								*----------------------------------------------------------------------------------------------------*/
 				
 				var str = "<a href=\"#\" class=\list-group-item\" data-id-tarea=\""+contadorTareas+"\">"+
-								"<h4 class=\"list-group-item-heading\">"+$("#tareaNombre").val()+"</h4>"
+								"<h4 class=\"list-group-item-heading\">"+$("#tareaNombre").val()+"</h4>"+
 								"<p class=\"list-group-item-text\"><div class=\"checkbox\"><label><input type=\"checkbox\">Finalizar</label></div></p></a>"
 				
 				
